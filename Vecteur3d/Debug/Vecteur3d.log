@@ -1,0 +1,2 @@
+﻿  cVecteur.cpp
+D:\COURS\PROG\C++\EvalCpp2\Vecteur3d\cVecteur.cpp(5,1): error C2533: 'cVecteur::{ctor}' : type de retour non autorisé pour les constructeurs
